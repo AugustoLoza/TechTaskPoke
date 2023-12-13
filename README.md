@@ -1,2 +1,2 @@
-Pokémon Tech Task App
+## Pokémon Tech Task App
 Bienvenido/a a la aplicación web dedicada a la exploración de Pokémon. Esta aplicación te permite descubrir una variada colección de Pokémon en un orden aleatorio, proporcionando detalles esenciales como Nombre, Experiencia, Altura, Peso y Habilidades de cada criatura. Además, incorporé una función que te permite actualizar la lista de Pokémon mediante un deslizamiento de la pantalla, para que puedas explorar el extenso catálogo de una manera más dinámica. La Pagina también tiene diseño Responsive.
