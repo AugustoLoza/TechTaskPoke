@@ -1,0 +1,7 @@
+{
+  "name": "pokeTask",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
